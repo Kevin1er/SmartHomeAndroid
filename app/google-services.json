@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "794605577953",
+    "firebase_url": "https://homotics-914a5.firebaseio.com",
+    "project_id": "homotics-914a5",
+    "storage_bucket": "homotics-914a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794605577953:android:370f649087af253b",
+        "android_client_info": {
+          "package_name": "com.Homeotics.SmartHome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794605577953-og5seu7h3deo9h2o8m91aducbrv68ra7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE60i8CXr2XRrENmFH0xojNHMeN5h0k1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794605577953:android:294cc44143da3e69",
+        "android_client_info": {
+          "package_name": "com.dsc.gl_homotics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794605577953-6re9vqf2jql7g9b2t9ijac443bn0b63v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsc.gl_homotics",
+            "certificate_hash": "a33a58f9e7041964c1a40205f49a294ab1a6d70e"
+          }
+        },
+        {
+          "client_id": "794605577953-og5seu7h3deo9h2o8m91aducbrv68ra7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE60i8CXr2XRrENmFH0xojNHMeN5h0k1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794605577953-og5seu7h3deo9h2o8m91aducbrv68ra7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794605577953:android:40dce421984475cb",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794605577953-gpadjtubqkggit0pr9larrpa6v8648kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarthome",
+            "certificate_hash": "89e1c6a245c2f57bd1b9ff14f05cda1b5dabec4f"
+          }
+        },
+        {
+          "client_id": "794605577953-og5seu7h3deo9h2o8m91aducbrv68ra7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE60i8CXr2XRrENmFH0xojNHMeN5h0k1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794605577953-og5seu7h3deo9h2o8m91aducbrv68ra7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
